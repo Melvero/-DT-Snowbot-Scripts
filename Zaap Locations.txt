@@ -1,0 +1,25 @@
+﻿[4,-19] Astrub : 84674563
+[-32,-56] Bonta : 147768
+[-26,35] Brâkmar : 144419
+[-1,13] Amakna (Bord de la forêt maléfique) : 88212746
+[3,-5] Amakna (Château d'Amakna) : 68552706
+[5,7] Amakna (Coins des Bouftous) : 88082704
+[7,-4] Amakna (Port de Madrestam) : 68419587
+[-2,0] Amakna (Village d'Amakna) : 88213271
+[10,22] Baie de Sufokia (Rivage Sufokien) : 88085249
+[13,26] Baie de Sufokia (Sufokia) : 95422468
+[-46,18] Île d'Otomaïl (Village côtier) : 154642
+[-79,-41] Île de Frigost (La Bourgade) : 54172969
+[-77,-73] Île de Frigost (Village enseveli) : 54172489
+[35,12] Île de Moon (Plage de la Tortue) : 156762120
+[-16,1] Montagne des Koalaks (Village des Eleveurs) : 73400320
+[26,-37] Pandala Neutre (Faubourgs de Pandala) : 13605
+[-27,-36] Plaine de Cania (Champs de Cania) : 142087694
+[-3,42] Plaine de Cania (Lac de Cania) : 156240386
+[-13,28] Plaine de Cania (Massif de Cania) : 165152263
+[-5,-23] Plaine de Cania (Plaine des Porkass) : 84806401
+[-17,-47] Plaine de Cania (Plaines Rocheuses) : 147590153
+[-20,-20] Plaine de Cania (Route Rocailleuse) : 164364304
+[29,-49] Pandala Feu (Village de Feudala) : 15153
+[15,-58] Saharach (Dunes des ossements) : 173278210
+[-1,24] Plaine des Scarafeuilles : 88212481
